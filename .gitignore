@@ -1,0 +1,16 @@
+# env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# mlflow artifacts
+mlruns/
+*.db
+
+# data
+*.parquet
+
+# editor
+.vscode/
